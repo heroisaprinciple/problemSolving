@@ -13,6 +13,10 @@ def wave(str)
   #
   # What map does is return an array which contains the results of the block or named method that is passed.
   # So, if we used .map instead of .each, then only capital letters will be returned
+
+  # Each -> returns same array
+  # Map & collect -> returns new array with code executed in block for each element
+  # Select -> return new array for the which give block is true
   for i in (0..str.length - 1)
     res << str.split('').each.with_index { |val, _idx| val.upcase! if i == _idx }
               .join unless str.split('')[i] == ' '

@@ -22,7 +22,7 @@ end
 
 p generateHashtag(" Hello there thanks for trying my Kata") # "#HelloThereThanksForTryingMyKata"
 p generateHashtag("    Hello     World   "                 ) # "#HelloWorld"
-p generateHashtag(""                                       ) #  false
+p generateHashtag("") #  false
 p generateHashtag('L' * 140) # false
 
 p generateHashtag(" Hello there thanks for trying my Kata").length

@@ -18,5 +18,9 @@ p "Rege".match /^\w{4}$/ # rege
 
 p "Regex are cool".match /^\w{4}$/ # nil
 
+p "Rege are cool".match /\b\w{4}\b/ # rege
+
+p "Regex are cool".match /\b\w{4}\b/ # cool
+
 # This time it won't match. This is a rather contrived example, since we could just
 # have used .size to find the length, but I think it gets the idea across.

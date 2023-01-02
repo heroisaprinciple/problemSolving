@@ -42,7 +42,7 @@ def balance(b)
   total = 0
   i = 0
 
-  arr[0] = "Original Balance: #{arr[0]}\r\n"
+  arr[0] = "Original Balance: %.2f\r\n" % arr[0]
   balance = arr[0][/\d+/].to_f
 
   # slicing the array, so we'll be working with it from the second el
@@ -50,13 +50,13 @@ def balance(b)
 
   while i < mod.length
     balance = balance - mod[i + 2].to_f
-    parts << [mod[i], mod[i + 1], mod[i + 2], "Balance %0.02f\r\n" % balance]
+    parts << [mod[i], mod[i + 1], "%.2f" % mod[i + 2], "Balance %.2f\r\n" % balance]
     total += mod[i + 2].to_f
     i += 3
   end
 
   average = total / (parts.count)
-  parts << ["Total expense %0.02f\r\nAverage expense  %0.02f" % [total, average]]
+  parts << ["Total expense  %.2f\r\nAverage expense  %.2f" % [total, average]]
   # parts.flatten.join(' ')
   parts.insert(0, arr[0])
   str = parts.flatten.join(' ')

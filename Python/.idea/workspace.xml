@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b372be3a-307a-4697-99d2-a0d96f55826a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/fizzBuzz.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/removeDuplsFromSortedArr.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/5kyu/extractDomainName.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/5kyu/findTheSmallest.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/5kyu/hashtagGenerator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/5kyu/pascalCase.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/+1arr.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/arrayDiff.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/breakTheCamelCase.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/countTheSmiles.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/createPhoneNum.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/detectPangram.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/easyBalanceChecking.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/findMissingLetter.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/findOddInt.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/findUniqueBumber.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/mexicanWave.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/multiplyBy3of5.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/persistent_bugger.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/spinWords.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/stringExpansion.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/stringToCamelCase.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/sumOfDigits.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/theParityOutlear.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/uniqueInOrder.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/yourOrderPlease.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/6kyu/zeroPlentifull.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/CRINGE.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/disemvowelTrolls.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/dsaaskbdsa.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/easyLine.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/filterTheNumb.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/findTheSmallestIntInArr.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/listFiltering.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/lostNumber.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/removeAnchorFromURL.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/shortestString.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/sortByLength.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/stringEndsWith.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/to_sentence.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/7kyi/vowelCount.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/dna_to_rna.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/feast.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/holidayDutyFree.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/palindrome.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/removeEverySecEl.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/sheepsCount.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/stringRepeat.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/usernameReg.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codewars/8kyi/welcome.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/anchors.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/characterClass.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/dotCharacter.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/emailExample.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/findNonNegativeNums.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/length.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/quantifier.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regexesAAAAAAAAAAAA/subpatterns.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/oop/attr_accessors.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/oop/classVariablesAndInheritance.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/oop/classVariablesAndInheritance2.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/oop/inheritance.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/oop/vars.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/procsLambdasAndBlocks/blocks.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/procsLambdasAndBlocks/lambdas.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rubyMonk/procsLambdasAndBlocks/procs.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someExercisesFromOdinProjects/enumerables/basic_enumerables.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someExercisesFromOdinProjects/enumerables/check.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someExercisesFromOdinProjects/enumerables/predicateEnums.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someExercisesFromOdinProjects/nested_collections/nestedC.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someExercisesFromOdinProjects/nested_collections/nestedCassignment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spec/break_cc_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spec/extract_domain_name_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spec/generate_hashtag_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spec/spec_helper.rb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OuwqJkE9OGKydF2uYRlMJgHTf7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Arina/problemSolving/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.countChars">
+    <configuration name="alphabetWar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars/7kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/7kyu/alphabetWar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="countChars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars/6kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/6kyu/countChars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="makeTheDeadfishSwim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars/6kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/6kyu/makeTheDeadfishSwim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sumListButIgnoreDupls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars/7kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/7kyu/sumListButIgnoreDupls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="theOffice1Outed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars/7kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/7kyu/theOffice1Outed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.countChars" />
+        <item itemvalue="Python.makeTheDeadfishSwim" />
+        <item itemvalue="Python.theOffice1Outed" />
+        <item itemvalue="Python.alphabetWar" />
+        <item itemvalue="Python.sumListButIgnoreDupls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b372be3a-307a-4697-99d2-a0d96f55826a" name="Changes" comment="" />
+      <created>1682423963246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682423963246</updated>
+      <workItem from="1682423964256" duration="5673000" />
+      <workItem from="1682585366019" duration="17616000" />
+      <workItem from="1682695868560" duration="328000" />
+      <workItem from="1682707161510" duration="4638000" />
+      <workItem from="1682931536441" duration="5689000" />
+      <workItem from="1682948208440" duration="7731000" />
+      <workItem from="1682959033362" duration="202000" />
+      <workItem from="1682959311085" duration="597000" />
+      <workItem from="1682968285038" duration="3000" />
+      <workItem from="1683119428348" duration="2546000" />
+      <workItem from="1683990469010" duration="5000" />
+      <workItem from="1684092364357" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$replaceWithAlphabetPosition.coverage" NAME="replaceWithAlphabetPosition Coverage Results" MODIFIED="1682602634236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/6kyu" />
+    <SUITE FILE_PATH="coverage/Python$topNEls.coverage" NAME="topNEls Coverage Results" MODIFIED="1682601517207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$howManyConsecutiveNeeded.coverage" NAME="howManyConsecutiveNeeded Coverage Results" MODIFIED="1682933035676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$sumFact.coverage" NAME="sumFact Coverage Results" MODIFIED="1682609512490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$twoSum.coverage" NAME="twoSum Coverage Results" MODIFIED="1682608029136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/6kyu" />
+    <SUITE FILE_PATH="coverage/Python$countChars.coverage" NAME="countChars Coverage Results" MODIFIED="1682957465409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/6kyu" />
+    <SUITE FILE_PATH="coverage/Python$alphabetWar.coverage" NAME="alphabetWar Coverage Results" MODIFIED="1682949656954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$addEvens.coverage" NAME="addEvens Coverage Results" MODIFIED="1682424033346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$flattenAndSortArr.coverage" NAME="flattenAndSortArr Coverage Results" MODIFIED="1682707931983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$insertDashes.coverage" NAME="insertDashes Coverage Results" MODIFIED="1682933289293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$theOffice1Outed.coverage" NAME="theOffice1Outed Coverage Results" MODIFIED="1682952499073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$sumListButIgnoreDupls.coverage" NAME="sumListButIgnoreDupls Coverage Results" MODIFIED="1682948274247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$makeTheDeadfishSwim.coverage" NAME="makeTheDeadfishSwim Coverage Results" MODIFIED="1682954316995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/6kyu" />
+    <SUITE FILE_PATH="coverage/Python$caseSensitive.coverage" NAME="caseSensitive Coverage Results" MODIFIED="1682936874685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$trimmingAString.coverage" NAME="trimmingAString Coverage Results" MODIFIED="1682587084625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$findTheVowels.coverage" NAME="findTheVowels Coverage Results" MODIFIED="1682711035475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+    <SUITE FILE_PATH="coverage/Python$one_Mark.coverage" NAME="one!Mark Coverage Results" MODIFIED="1682933469181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars/7kyu" />
+  </component>
+</project>

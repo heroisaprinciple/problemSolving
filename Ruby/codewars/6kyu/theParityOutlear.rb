@@ -24,7 +24,6 @@ def find_outlier(integers)
   # even.length == 1 ? even[0] : odd[0]
 
   integers.count(&:odd?) > 1 ? integers.find(&:even?) : integers.find(&:odd?)
-
 end
 
 p find_outlier([0, 1, 2]) # 1
